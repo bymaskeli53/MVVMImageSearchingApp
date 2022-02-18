@@ -4,7 +4,7 @@ This app made by following this tutorial: <br>
 "https://www.youtube.com/watch?v=m_cMJehM9xc&list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED"
 
 
-Libraries has been used up through this tutorial: <br>
+Libraries have been used up through this tutorial: <br>
 1-Retrofit <br>
 2-Paging 3  <br>
 3-Glide     <br>
